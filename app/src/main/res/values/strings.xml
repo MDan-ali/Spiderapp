@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="mainText">Spider App</string>
+    <string name="pressButton">Press Me</string>
+    <string name="changeText"> </string>
+</resources>
